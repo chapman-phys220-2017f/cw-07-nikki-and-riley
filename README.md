@@ -1,8 +1,8 @@
-# PHYS220 CW 7
+<sub></sub># PHYS220 CW 7
 
-**Author(s):** **CHANGEME**
+**Author(s):** **Riley and Nikki**
 
-[![Build Status](https://travis-ci.org/chapman-phys220-2017f/cw-07-YOURNAME.svg?branch=master)](https://travis-ci.org/chapman-phys220-2017f/cw-07-YOURNAME)
+[![Build Status](https://travis-ci.org/chapman-phys220-2017f/cw-07-nikki_and_riley.svg?branch=master)](https://travis-ci.org/chapman-phys220-2017f/cw-07-cw-06-nikki_and_riley)
 
 ## Specification
 
@@ -22,7 +22,7 @@ Pro-tip: using git to manage conflicts on Jupyter notebooks is a pain. I recomme
 
 Analyze in this section what you found useful about this assignment in your own words. Include any lingering questions or comments that you may have.
 
-**CHANGEME**
+Through this assignment, I learned how to use two for loops together in a code.  I also learned how to mark a specific point I wish to plot, and also I learned that lists can be included in a for loop.
 
 ## Honor Pledge
 
@@ -33,4 +33,4 @@ I pledge that all the work in this repository is my own with only the following 
 
 Signed,
 
-**YOURNAME**
+**Riley and Nikki**
